@@ -1,4 +1,4 @@
-import dayjs from "dayjs";
+import dayjs from "https://unpkg.com/dayjs@1.8.21/dayjs.min.js";
 import "https://github.com/mermaidoktavia/-vocabday/styles.css";
 const weekday = require("dayjs/plugin/weekday");
 const weekOfYear = require("dayjs/plugin/weekOfYear");
