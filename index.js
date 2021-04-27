@@ -1,5 +1,5 @@
 import dayjs from "dayjs";
-import "./styles.css";
+import "https://github.com/mermaidoktavia/-vocabday/styles.css";
 const weekday = require("dayjs/plugin/weekday");
 const weekOfYear = require("dayjs/plugin/weekOfYear");
 
